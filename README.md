@@ -35,7 +35,7 @@ Go to your Visual Stuido Code `settings.json` file and add the below settings th
 
 ### Set Line Breaks
 
-Make sure in your VS Code Editor, "LF" is selected as line feed instead of CRLF (Carriage return and line feed). To do that, just click LF/CRLF in bottom right corner of editor, click it and change it to "LF". If you dont do that, you will get errors in my setup.
+Make sure in your VS Code Editor, "LF" is selected as line feed instead of CRLF (Carriage return and line feed). To do that, just click LF/CRLF in bottom right corner of editor, click it and change it to "LF".
 
 <img src="tempsnip.png" alt="Line Feed" width="700">
 
